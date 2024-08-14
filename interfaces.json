@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Item",
+    "attributes": [
+      {
+        "name": "id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "name",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "price",
+        "type": "number",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  }
+]
